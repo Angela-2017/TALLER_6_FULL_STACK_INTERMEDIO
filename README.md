@@ -1,9 +1,7 @@
 <h1>TALLER 6: ANGELICA RINCON</h1>
-<h1>link pagina web</h1>
-<a href="https://angela-2017.github.io/taller-10-fullstack/" target="blank">Link pagina web</a>
 
 <h1>link GITHUB</h1>
-<a href="https://github.com/Angela-2017/taller-10-fullstack " target="blank">Link GITHUB</a>
+<a href="https://github.com/Angela-2017/TALLER_6_FULL_STACK_INTERMEDIO" target="blank">Link GITHUB</a>
 
 <h2>Informacion</h2>
 <p>Curso Full Stack basico-Grupo 1</p>
